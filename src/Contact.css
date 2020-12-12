@@ -1,0 +1,60 @@
+.contact_second_div{
+    margin: 50px 100px;
+    display: flex;
+}
+
+.contact_first_div{
+    margin: 10% 0% 10% 10%;
+    display: inline-block;
+    
+}
+.contact_image{
+    
+    height: 25px;
+    width: 25px;
+    margin: 0%;
+    padding: 0%;
+    
+    border-radius: 30px;
+}
+
+.contact_label{
+    font-size: 14px;
+    font-family: cursive;
+    margin-left: 20px;
+    
+    
+}
+
+.outer_div{
+    display: flex;
+    
+    justify-content: center;
+}
+
+.contact_third_div{
+    display: flex;
+    padding: 0;
+    margin: 10%;
+    
+    flex-direction: column;
+
+
+}
+
+.contact_input{
+    margin: 10px 0px;
+    width: 300px;
+}
+
+.contact_input_massage{
+    width: 300px;
+    height: 100px;
+    margin: 10px 0px;
+}
+
+.contact_button{
+    margin: 20px 25% 0px 25%;
+    display: flex;
+    justify-content: center;
+}
